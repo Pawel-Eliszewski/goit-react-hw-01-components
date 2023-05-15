@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "//pawel-eliszewski.github.io/goit-react-hw-01-components/static/css/main.7acaea2f.css",
-    "main.js": "//pawel-eliszewski.github.io/goit-react-hw-01-components/static/js/main.07d3183d.js",
-    "index.html": "//pawel-eliszewski.github.io/goit-react-hw-01-components/index.html",
-    "main.7acaea2f.css.map": "//pawel-eliszewski.github.io/goit-react-hw-01-components/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "//pawel-eliszewski.github.io/goit-react-hw-01-components/static/js/main.07d3183d.js.map"
+    "main.css": "/goit-react-hw-01-components/static/css/main.7edf84fa.css",
+    "main.js": "/goit-react-hw-01-components/static/js/main.c658846a.js",
+    "index.html": "/goit-react-hw-01-components/index.html",
+    "main.7edf84fa.css.map": "/goit-react-hw-01-components/static/css/main.7edf84fa.css.map",
+    "main.c658846a.js.map": "/goit-react-hw-01-components/static/js/main.c658846a.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.7edf84fa.css",
+    "static/js/main.c658846a.js"
   ]
 }
