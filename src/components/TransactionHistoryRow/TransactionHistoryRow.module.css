@@ -1,0 +1,33 @@
+td {
+    border: 1px solid rgba(219, 219, 219, 0.411);
+}
+
+.td {
+    box-shadow: 1px 1px 3px rgba(158, 158, 158, 0.305) inset;
+}
+
+.tr {
+    height: 30px;
+}
+
+.tr:nth-child(even) {
+    background-color: rgba(219, 219, 219, 0.411);
+}
+
+.tType {
+    width: 300px;
+    padding: 10px 100px;
+    text-align: left;
+}
+
+.tAmount {
+    width: 300px;
+    padding: 10px 100px;
+    text-align: right;
+}
+
+.tCurrency {
+    width: 300px;
+    padding: 10px 100px;
+    text-align: center;
+}
